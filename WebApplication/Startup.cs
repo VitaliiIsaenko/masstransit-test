@@ -39,8 +39,8 @@ namespace WebApplication
                 {
                     conf.Host("eu-central-1", h =>
                     {
-                        h.AccessKey("AKIA5VNXQUN3G6M5JMQU");
-                        h.SecretKey("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");
+                        h.AccessKey("");
+                        h.SecretKey("");
 
                         // following are OPTIONAL
 
