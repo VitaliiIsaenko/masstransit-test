@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitWorker", "MassTransitWorker\MassTransitWorker.csproj", "{E570626E-1D3A-48CC-8E9C-5E1DD70CE964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplication\WebApplication.csproj", "{9EEFE21B-AC0D-4723-9053-B42067E00E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{5799DA16-C539-4FC8-858D-E9707C4116FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E570626E-1D3A-48CC-8E9C-5E1DD70CE964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E570626E-1D3A-48CC-8E9C-5E1DD70CE964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E570626E-1D3A-48CC-8E9C-5E1DD70CE964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E570626E-1D3A-48CC-8E9C-5E1DD70CE964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EEFE21B-AC0D-4723-9053-B42067E00E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EEFE21B-AC0D-4723-9053-B42067E00E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EEFE21B-AC0D-4723-9053-B42067E00E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EEFE21B-AC0D-4723-9053-B42067E00E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5799DA16-C539-4FC8-858D-E9707C4116FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5799DA16-C539-4FC8-858D-E9707C4116FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5799DA16-C539-4FC8-858D-E9707C4116FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5799DA16-C539-4FC8-858D-E9707C4116FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
